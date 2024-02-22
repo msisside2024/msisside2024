@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm msisside2024! 👋
 
-<!--
-**msisside2024/msisside2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a student passionate about technology and innovation. I'm currently diving deep into learning new skills and working on academic and personal projects to expand my knowledge and expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript 
+- **Tools:** Git, GitHub 
+- **Databases:** mongodb
+
+## 🎯 Projects
+
+- **Project Name 1** - webapp for events
+
+(Note: The GitHub Stats card will automatically update to reflect your GitHub stats. You can customize the theme or appearance by changing the URL parameters.)
+
+## 📫 How to Reach Me
+
+- **Email:** msisside@gmail.com
+
+
